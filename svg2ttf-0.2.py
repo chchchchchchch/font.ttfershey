@@ -16,7 +16,7 @@
 # files are; they ought to be named [a-z].svg
 
 LETTERS_DIR = "./tmp"
-BLANK_FONT = "./i/free/utils/blank.sfd"
+BLANK_FONT = "./i/utils/blank.sfd"
 
 #letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
